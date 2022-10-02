@@ -1,4 +1,4 @@
-# Vikalp 
+# Vikalp, by Team Karasuno.
 
 To put it simply, Vikalp is our solution to the issues people in rural areas face.
 We give the people a platform to select their issues, after which we provide our
