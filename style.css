@@ -99,7 +99,7 @@ p{
 .one{
     grid-column:1;
     grid-row: 1; 
-    background-color: lightblue;
+    background-color: rgba(76, 43, 3, 0.84);
     color: beige;
     transition-duration: 1s;
     transition-property:font-size;
