@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.1",
+    "name": "Vikalp - Add Family",
+    "action": {
+        "default_popup": "extension.html",
+        "default_icon": "imgs/Favicon.png"
+    }, 
+    "permissions": [
+        "tabs"
+    ]
+}
